@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * Month Input Plugin
  *
