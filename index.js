@@ -27,7 +27,6 @@ module.exports = {
       label: 'Choose a month',
       type: 'select',
       settings: {
-        empty: true,
         size: '1',
         months: {
           '01': 'January',
